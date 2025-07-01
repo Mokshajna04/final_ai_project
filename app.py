@@ -912,8 +912,6 @@ ax.set_ylabel("Feature 2")
 
 # Show plot in Streamlit
 st.pyplot(plt_scat)
-import streamlit as st
-import pandas as pd
-import plotly.express as px
+
 
 
